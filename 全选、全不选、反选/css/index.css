@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.form {
+    width: 200px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+div {
+    width: 120px;
+    margin-left: 700px;
+    margin-top: 10px;
+}
