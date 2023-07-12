@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    width: 500px;
+    height: 350px;
+    border: 2px solid rgba(0,0,0,.3);
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+ul li {
+    float: left;
+    width: 100px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px solid black;
+    list-style: none;
+}
+
+.click {
+    font-size: 10px;
+    text-align: center;
+    line-height: 40px;
+    font-family: '仿宋';
+    font-weight: bold;
+    color: #333;
+    background-color: orange;
+    border: 1px solid red;
+}
+
+div {
+    margin-top: 30px;
+    margin-left: 170px;
+    width: 150px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 50px;
+}
